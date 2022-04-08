@@ -1,2 +1,2 @@
-# student-union-of-univeristy
-MySQL database project
+# Student Union Of Univeristy
+
