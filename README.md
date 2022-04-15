@@ -1,10 +1,10 @@
 # Student Union Of Univeristy
 
-The Student Union of University is non-profit organization govern by student or alumni of the University. This Organization offers career oriented and social services by organizing activities, enhancement workshops, volunteering opportunities to help current students’ life more enjoyable.
+It is non-profit organization govern by student or alumni of the University. This Organization offers career development and social services by organizing activities, enhancement workshops, volunteering opportunities to help current students’ life more enjoyable.
 
-The objective of this project is to design the develop the MySQL database of student union to provide organization to manage their plans and activities in efficient way. 
+The objective of this project is to design the develop the **MySQL database** of student union to provide organization to manage their plans and activities in efficient way. 
 
-To design the database the Entity Relationship (ER) Data Model is used to represent the Data objects, the associations between data objects, and rules.
+To design the database the **Entity Relationship (ER) Data Model** is used to represent the Data objects, the associations between data objects, and rules.
 
 **Components of ER Diagram:**
 - Entity: An entity is an object or concept about which user want to store information.
