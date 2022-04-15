@@ -19,9 +19,11 @@ To design the database the **Entity Relationship (ER) Data Model** is used to re
 
 ![Student_Union_ER_Diagram](https://user-images.githubusercontent.com/35762778/163649191-e24d8435-5bbe-4e24-9873-3f6746469233.png)
 
+
 <details>
-  <summary>Overview of Database design below:</summary>
+  <summary>Overview of Student Union Database design below:</summary>
   
+  [Database design](https://github.com/Nisarg2612/student-union-of-univeristy/blob/main/19619_Student_Union_Signature_assignment.pdf)
 </details>
 
 <details>
