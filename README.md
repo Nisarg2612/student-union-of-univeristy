@@ -6,16 +6,18 @@ The objective of this project is to design the develop the **MySQL database** of
 
 To design the database the **Entity Relationship (ER) Data Model** is used to represent the Data objects, the associations between data objects, and rules.
 
+---
+
 **Components of ER Diagram:**
-- Entity: An entity is an object or concept about which user want to store information.
-- Attribute: A property or characteristic of an entity. Often represented as an oval or circle.
-- Relationship: How entities act upon each other or are associated with each other.
-- Cardinality: Specifies how many instances of an entity relate to one instance of another entity.
+- **Entity:** An entity is an object or concept about which user want to store information.
+- **Attribute:** A property or characteristic of an entity. Often represented as an oval or circle.
+- **Relationship:** How entities act upon each other or are associated with each other.
+- **Cardinality:** Specifies how many instances of an entity relate to one instance of another entity.
 
-<details>
-  <summary>The Entity Relationship Diagram is below:</summary>
+---
+**The Entity Relationship Diagram is below:**
 
-</details>
+![Student_Union_ER_Diagram](https://user-images.githubusercontent.com/35762778/163649191-e24d8435-5bbe-4e24-9873-3f6746469233.png)
 
 <details>
   <summary>Overview of Database tables below:</summary>
